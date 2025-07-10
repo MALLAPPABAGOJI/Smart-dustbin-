@@ -16,15 +16,15 @@ HARDWARE USED :
 1. ESP32 Dev Board
    <img width="669" height="342" alt="wifi_esp32_ap" src="https://github.com/user-attachments/assets/f7f0923e-4364-4513-b64e-f3f558fb03eb" />
 
-3. Ultrasonic Sensor (HC-SR04)
+2. Ultrasonic Sensor (HC-SR04)
    <img width="981" height="540" alt="image" src="https://github.com/user-attachments/assets/0156c11a-afa4-4dee-aed1-b7a302eea759" />
 
-4. Servo Motor (SG90)
+3. Servo Motor (SG90)
    <img width="974" height="614" alt="image" src="https://github.com/user-attachments/assets/fc6836ea-91dc-4281-8611-d8b852ab3893" />
 
-6. Buzzer or LED
-7. Jumper Wires
-8. Breadboard or Mounting Setup
+4. Buzzer or LED
+5. Jumper Wires
+6. Breadboard or Mounting Setup
    
  Circuit Diagram
  <img width="992" height="662" alt="image" src="https://github.com/user-attachments/assets/f9178864-b81b-456a-b1a2-81f8694a4977" />
@@ -32,9 +32,16 @@ HARDWARE USED :
  CONNECTIONS :
  
 Component	      ESP32 Pin
+
 HC-SR04 Trig	  GPIO 5
+
+
 HC-SR04 Echo	  GPIO 18
+
+
 Servo Motor	    GPIO 19
+
+
 Buzzer / LED	  GPIO 2
 
 Arduino code :
