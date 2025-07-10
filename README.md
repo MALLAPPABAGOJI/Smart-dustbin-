@@ -13,8 +13,10 @@ FEATURES :
 4. Sends real-time updates and notifications using Blynk app
 
 HARDWARE USED :
+
 1. ESP32 Dev Board
-   <img width="669" height="342" alt="wifi_esp32_ap" src="https://github.com/user-attachments/assets/f7f0923e-4364-4513-b64e-f3f558fb03eb" />
+
+  <img width="669" height="342" alt="wifi_esp32_ap" src="https://github.com/user-attachments/assets/f7f0923e-4364-4513-b64e-f3f558fb03eb" />
 
 2. Ultrasonic Sensor (HC-SR04)
    <img width="981" height="540" alt="image" src="https://github.com/user-attachments/assets/0156c11a-afa4-4dee-aed1-b7a302eea759" />
