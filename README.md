@@ -1,4 +1,4 @@
-# Smart-dustbin-
+# Smart-dustbin
 
  Smart Dustbin using ESP32 and Blynk
 
